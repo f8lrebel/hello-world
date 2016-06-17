@@ -1,4 +1,4 @@
 # hello-world
-leaning repository
+learning repository
 
 Learning more about github through free coding lab
